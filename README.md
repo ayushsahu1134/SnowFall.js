@@ -1,1 +1,1 @@
-# SnowFall.js
+# snowfall-animation
